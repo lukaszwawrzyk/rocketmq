@@ -84,7 +84,7 @@ maven_install(
         "io.grpc:grpc-services:1.47.0",
         "io.grpc:grpc-netty-shaded:1.47.0",
         "io.grpc:grpc-context:1.47.0",
-        "io.grpc:grpc-stub:1.47.0",
+        "io.grpc:grpc-stub:1.54.1",
         "io.grpc:grpc-api:1.47.0",
         "io.grpc:grpc-testing:1.47.0",
         "org.springframework:spring-core:5.3.26",
