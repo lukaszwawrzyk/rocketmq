@@ -72,7 +72,7 @@ maven_install(
         "com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2",
         "org.apache.rocketmq:rocketmq-proto:2.0.2",
         "com.google.protobuf:protobuf-java:3.20.1",
-        "com.google.protobuf:protobuf-java-util:3.20.1",
+        "com.google.protobuf:protobuf-java-util:3.22.4",
         "com.conversantmedia:disruptor:1.2.10",
         "org.apache.tomcat:annotations-api:6.0.53",
         "com.google.code.findbugs:jsr305:3.0.2",
