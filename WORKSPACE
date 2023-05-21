@@ -64,7 +64,7 @@ maven_install(
         "commons-cli:commons-cli:1.5.0",
         "com.google.guava:guava:31.0.1-jre",
         "org.yaml:snakeyaml:1.30",
-        "commons-codec:commons-codec:1.13",
+        "commons-codec:commons-codec:1.15",
         "commons-io:commons-io:2.7",
         "com.google.truth:truth:0.30",
         "org.bouncycastle:bcpkix-jdk15on:1.69",
