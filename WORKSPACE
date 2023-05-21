@@ -76,7 +76,7 @@ maven_install(
         "com.conversantmedia:disruptor:1.2.10",
         "org.apache.tomcat:annotations-api:6.0.53",
         "com.google.code.findbugs:jsr305:3.0.2",
-        "org.checkerframework:checker-qual:3.12.0",
+        "org.checkerframework:checker-qual:3.34.0",
         "org.reflections:reflections:0.9.11",
         "org.openjdk.jmh:jmh-core:1.19",
         "org.openjdk.jmh:jmh-generator-annprocess:1.19",
