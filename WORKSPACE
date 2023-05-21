@@ -77,7 +77,7 @@ maven_install(
         "org.apache.tomcat:annotations-api:6.0.53",
         "com.google.code.findbugs:jsr305:3.0.2",
         "org.checkerframework:checker-qual:3.12.0",
-        "org.reflections:reflections:0.9.11",
+        "org.reflections:reflections:0.10.2",
         "org.openjdk.jmh:jmh-core:1.19",
         "org.openjdk.jmh:jmh-generator-annprocess:1.19",
         "com.github.ben-manes.caffeine:caffeine:2.9.3",
