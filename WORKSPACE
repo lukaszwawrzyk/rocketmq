@@ -67,7 +67,7 @@ maven_install(
         "commons-codec:commons-codec:1.13",
         "commons-io:commons-io:2.7",
         "com.google.truth:truth:0.30",
-        "org.bouncycastle:bcpkix-jdk15on:1.69",
+        "org.bouncycastle:bcpkix-jdk15on:1.70",
         "com.google.code.gson:gson:2.8.9",
         "com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2",
         "org.apache.rocketmq:rocketmq-proto:2.0.2",
