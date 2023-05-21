@@ -44,7 +44,7 @@ maven_install(
         "org.hamcrest:hamcrest-library:1.3",
         "io.netty:netty-all:4.1.65.Final",
         "org.assertj:assertj-core:3.22.0",
-        "org.mockito:mockito-core:3.10.0",
+        "org.mockito:mockito-core:3.12.4",
         "org.powermock:powermock-module-junit4:2.0.9",
         "org.powermock:powermock-api-mockito2:2.0.9",
         "org.powermock:powermock-core:2.0.9",
