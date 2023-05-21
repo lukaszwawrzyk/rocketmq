@@ -79,7 +79,7 @@ maven_install(
         "org.checkerframework:checker-qual:3.12.0",
         "org.reflections:reflections:0.9.11",
         "org.openjdk.jmh:jmh-core:1.19",
-        "org.openjdk.jmh:jmh-generator-annprocess:1.19",
+        "org.openjdk.jmh:jmh-generator-annprocess:1.36",
         "com.github.ben-manes.caffeine:caffeine:2.9.3",
         "io.grpc:grpc-services:1.47.0",
         "io.grpc:grpc-netty-shaded:1.47.0",
