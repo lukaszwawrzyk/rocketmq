@@ -56,7 +56,7 @@ maven_install(
         "io.openmessaging.storage:dledger:0.3.1",
         "net.java.dev.jna:jna:4.2.2",
         "ch.qos.logback:logback-classic:1.2.10",
-        "ch.qos.logback:logback-core:1.2.10",
+        "ch.qos.logback:logback-core:1.4.7",
         "io.opentracing:opentracing-api:0.33.0",
         "io.opentracing:opentracing-mock:0.33.0",
         "commons-collections:commons-collections:3.2.2",
