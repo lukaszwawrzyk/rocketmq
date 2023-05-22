@@ -41,7 +41,7 @@ maven_install(
     artifacts = [
         "junit:junit:4.13.2",
         "com.alibaba:fastjson:1.2.83",
-        "org.hamcrest:hamcrest-library:1.3",
+        "org.hamcrest:hamcrest-library:2.2",
         "io.netty:netty-all:4.1.65.Final",
         "org.assertj:assertj-core:3.22.0",
         "org.mockito:mockito-core:3.10.0",
