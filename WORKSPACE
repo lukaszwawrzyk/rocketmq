@@ -80,7 +80,7 @@ maven_install(
         "org.reflections:reflections:0.9.11",
         "org.openjdk.jmh:jmh-core:1.19",
         "org.openjdk.jmh:jmh-generator-annprocess:1.19",
-        "com.github.ben-manes.caffeine:caffeine:2.9.3",
+        "com.github.ben-manes.caffeine:caffeine:3.1.6",
         "io.grpc:grpc-services:1.47.0",
         "io.grpc:grpc-netty-shaded:1.47.0",
         "io.grpc:grpc-context:1.47.0",
