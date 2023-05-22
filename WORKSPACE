@@ -81,7 +81,7 @@ maven_install(
         "org.openjdk.jmh:jmh-core:1.19",
         "org.openjdk.jmh:jmh-generator-annprocess:1.19",
         "com.github.ben-manes.caffeine:caffeine:2.9.3",
-        "io.grpc:grpc-services:1.47.0",
+        "io.grpc:grpc-services:1.55.1",
         "io.grpc:grpc-netty-shaded:1.47.0",
         "io.grpc:grpc-context:1.47.0",
         "io.grpc:grpc-stub:1.47.0",
