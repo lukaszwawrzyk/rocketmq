@@ -43,7 +43,7 @@ maven_install(
         "com.alibaba:fastjson:1.2.83",
         "org.hamcrest:hamcrest-library:1.3",
         "io.netty:netty-all:4.1.65.Final",
-        "org.assertj:assertj-core:3.22.0",
+        "org.assertj:assertj-core:3.24.2",
         "org.mockito:mockito-core:3.10.0",
         "org.powermock:powermock-module-junit4:2.0.9",
         "org.powermock:powermock-api-mockito2:2.0.9",
