@@ -60,7 +60,7 @@ maven_install(
         "io.opentracing:opentracing-api:0.33.0",
         "io.opentracing:opentracing-mock:0.33.0",
         "commons-collections:commons-collections:3.2.2",
-        "org.awaitility:awaitility:4.1.0",
+        "org.awaitility:awaitility:4.2.0",
         "commons-cli:commons-cli:1.5.0",
         "com.google.guava:guava:31.0.1-jre",
         "org.yaml:snakeyaml:1.30",
