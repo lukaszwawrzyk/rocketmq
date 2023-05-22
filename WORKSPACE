@@ -52,7 +52,7 @@ maven_install(
         "org.lz4:lz4-java:1.8.0",
         "commons-validator:commons-validator:1.7",
         "org.apache.commons:commons-lang3:3.12.0",
-        "org.hamcrest:hamcrest-core:1.3",
+        "org.hamcrest:hamcrest-core:2.2",
         "io.openmessaging.storage:dledger:0.3.1",
         "net.java.dev.jna:jna:4.2.2",
         "ch.qos.logback:logback-classic:1.2.10",
