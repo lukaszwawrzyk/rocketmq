@@ -66,7 +66,7 @@ maven_install(
         "org.yaml:snakeyaml:1.30",
         "commons-codec:commons-codec:1.13",
         "commons-io:commons-io:2.7",
-        "com.google.truth:truth:0.30",
+        "com.google.truth:truth:0.46",
         "org.bouncycastle:bcpkix-jdk15on:1.69",
         "com.google.code.gson:gson:2.8.9",
         "com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2",
