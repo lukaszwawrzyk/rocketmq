@@ -99,7 +99,7 @@ maven_install(
         "io.github.aliyunmq:rocketmq-slf4j-api:1.0.0",
         "io.github.aliyunmq:rocketmq-logback-classic:1.0.0",
         "org.slf4j:jul-to-slf4j:2.0.6",
-    	"org.jetbrains:annotations:23.1.0",
+    	"org.jetbrains:annotations:24.0.1",
         "io.github.aliyunmq:rocketmq-shaded-slf4j-api-bridge:1.0.0",
     ],
     fetch_sources = True,
