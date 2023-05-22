@@ -88,7 +88,7 @@ maven_install(
         "io.grpc:grpc-api:1.47.0",
         "io.grpc:grpc-testing:1.47.0",
         "org.springframework:spring-core:5.3.26",
-        "io.opentelemetry:opentelemetry-exporter-otlp:1.19.0",
+        "io.opentelemetry:opentelemetry-exporter-otlp:1.26.0",
         "io.opentelemetry:opentelemetry-exporter-prometheus:1.19.0-alpha",
         "io.opentelemetry:opentelemetry-exporter-logging:1.19.0",
         "io.opentelemetry:opentelemetry-sdk:1.19.0",
