@@ -95,7 +95,7 @@ maven_install(
         "com.squareup.okio:okio-jvm:3.0.0",
         "io.opentelemetry:opentelemetry-api:1.19.0",
         "io.opentelemetry:opentelemetry-sdk-metrics:1.19.0",
-        "io.opentelemetry:opentelemetry-sdk-common:1.19.0",
+        "io.opentelemetry:opentelemetry-sdk-common:1.26.0",
         "io.github.aliyunmq:rocketmq-slf4j-api:1.0.0",
         "io.github.aliyunmq:rocketmq-logback-classic:1.0.0",
         "org.slf4j:jul-to-slf4j:2.0.6",
