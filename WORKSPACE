@@ -83,7 +83,7 @@ maven_install(
         "com.github.ben-manes.caffeine:caffeine:2.9.3",
         "io.grpc:grpc-services:1.47.0",
         "io.grpc:grpc-netty-shaded:1.47.0",
-        "io.grpc:grpc-context:1.47.0",
+        "io.grpc:grpc-context:1.55.1",
         "io.grpc:grpc-stub:1.47.0",
         "io.grpc:grpc-api:1.47.0",
         "io.grpc:grpc-testing:1.47.0",
